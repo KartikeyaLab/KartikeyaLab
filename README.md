@@ -9,7 +9,10 @@
 
 #### <ins>About Me</ins>
 
-I am Kartikeya, a computer programmer specializing in front-end web development. My expertise includes HTML5, CSS3 (Flexbox, Grid), JavaScript, and React.js for building responsive and interactive user interfaces. I also have experience with Python for scripting and basic back-end tasks, and a foundational understanding of C. My background in video editing complements my technical skills, allowing for a visually informed approach to development. I am a fast and efficient worker.
+Hi, I’m Kartikeya — a passionate computer programmer with a focus on front-end web development.
+I work with HTML5, CSS3 (Flexbox, Grid), JavaScript, and React.js to build responsive and accessible user interfaces. I also use Python for scripting and light back-end tasks, and have explored C for a better understanding of low-level programming.
+
+Beyond coding, I have experience in video editing using DaVinci Resolve, which adds a creative touch to my technical work. With a typing speed of over 100 words per minute, I work quickly and accurately, ensuring efficiency in everything I do.
 
 #### <ins>Technical Skills</ins>
 
