@@ -21,7 +21,7 @@ Beyond coding, I have experience in video editing using DaVinci Resolve, which a
 | **Front-End**    | HTML5, CSS3 (Flexbox, Grid), JavaScript, React.js, Responsive Design, Accessibility        |
 | **Back-End**     | Python (Scripting, Automation), Basic Back-End Services                                    |
 | **Programming**  | C                                                                                          |
-| **Tools & IDEs** | Git, VS Code, Cursor, Unity                                                                |
+| **Tools & IDEs** | Git, VS Code, Cursor                                                 |
 | **Multimedia**   | Video Editing (DaVinci Resolve 19)                                                         |
 | **Other**        | Fast Typing (100+ WPM)                                                                     |
 
