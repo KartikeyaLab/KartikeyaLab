@@ -1,4 +1,4 @@
-### 👋 Hello, world! I’m Kartikeya - If it can be coded, styled, typed, or tweaked — I’m on it.
+### 👋 Hello, world! I’m Kartikeya - Code it. Style it. Ship it.
 
 [![Monkeytype](https://img.shields.io/badge/-Monkeytype-%23FFBF00?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/Karitkeya)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white)](http://kartikeyalab.github.io/kartikeya)
