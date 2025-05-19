@@ -44,7 +44,7 @@ Beyond coding, I have experience in video editing using DaVinci Resolve, which a
 
 #### <ins>Connect with Me</ins>
 
-I’m always excited to connect with fellow developers, dive into fresh ideas, and explore new opportunities to collaborate. Don’t hesitate to say hi — let’s build something awesome together! ✨
+I’m excited to connect with developers. Don’t hesitate to say hi — let’s build something awesome together! ✨
 
 [![GitHub](https://img.shields.io/badge/-GitHub-%23242929?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartikeyaLab)
 [![Monkeytype](https://img.shields.io/badge/-Monkeytype-%23FFBF00?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/Karitkeya)
