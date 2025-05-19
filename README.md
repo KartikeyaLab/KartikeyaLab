@@ -18,7 +18,7 @@ I am Kartikeya, a computer programmer specializing in front-end web development.
 | **Front-End**    | HTML5, CSS3 (Flexbox, Grid), JavaScript, React.js, Responsive Design, Accessibility (ARIA) |
 | **Back-End**     | Python (Scripting, Automation), Basic Back-End Services                                    |
 | **Programming**  | C                                                                                          |
-| **Tools & IDEs** | Git, VS Code, [Mention other relevant tools]                                               |
+| **Tools & IDEs** | Git, VS Code, Cursor, Unity                                                                |
 | **Multimedia**   | Video Editing (DaVinci Resolve 19)                                                         |
 | **Other**        | Fast Typing (100+ WPM)                                                                     |
 
