@@ -54,4 +54,4 @@ I’m excited to connect with developers. Don’t hesitate to say hi — let’s
 
 ---
 
-Thanks so much for visiting my profile! Wishing you joyful coding adventures ahead! ✨🚀
+Thanks so much for visiting my profile! Wishing you joyful coding adventures ahead! ✨
