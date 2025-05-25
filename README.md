@@ -46,7 +46,6 @@ Beyond coding, I have experience in video editing using DaVinci Resolve, which a
 
 I’m excited to connect with developers. Don’t hesitate to say hi — let’s build something awesome together! ✨
 
-[![GitHub](https://img.shields.io/badge/-GitHub-%23242929?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartikeyaLab)
 [![Monkeytype](https://img.shields.io/badge/-Monkeytype-%23FFBF00?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/Karitkeya)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white)](http://kartikeyalab.github.io/kartikeya)
 [![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@clever-ways)
