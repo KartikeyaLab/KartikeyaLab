@@ -1,4 +1,4 @@
-### 👋 Hello, world! I’m Kartikeya - I love Technology!
+### 👋 Hello! I’m Kartikeya and I love Technology!
 
 [![Monkeytype](https://img.shields.io/badge/-Monkeytype-%23FFBF00?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/Karitkeya)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white)](http://kartikeyalab.github.io/kartikeya)
