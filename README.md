@@ -28,7 +28,7 @@ Alos, I type fast enough (100+ wpm), which mostly means I make mistakes fasterâ€
 
 ---
 
-## Things I know! (only technical)
+## Things I know! (only technical included)
 
 | Domain          | Tools & Technologies                                     |
 | --------------- | -------------------------------------------------------- |
