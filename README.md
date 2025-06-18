@@ -1,5 +1,5 @@
-<h1 align="center" style="font-weight: 600; font-size: 3rem;">👋 Hi, I’m Kartikeya</h1>
-<p align="center" style="font-size: 1.2rem; color: #666;">Front-End Developer · UI Craftsman · Passionate Learner</p>
+<h1 align="center" style="font-weight: 600; font-size: 3rem;">Hi, I’m Kartikeya</h1>
+<p align="center" style="font-size: 1.2rem; color: #666;">Developer · Designer · Typist · Editor</p>
 
 <p align="center">
   <a href="https://monkeytype.com/profile/Karitkeya">
@@ -18,65 +18,67 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm Kartikeya — a high school student with an eye for clean design and a love for great user experiences.  
-While others flip textbooks, I flip flexboxes. I believe that simplicity is power — and that the best code almost feels invisible.  
+I’m in 11th grade-supposed to be solving math, but somehow I keep coding instead. My IDE have seen me more than my textbook. I mostly do front-end work: HTML, CSS (yes, Flexbox still confuses me), and JavaScript. I love building things — and sometimes, they actually work. Which suprises me often!
 
-I design and build fast, responsive, and aesthetic web experiences. Whether it’s a launch-ready tool, a portfolio builder, or a smart assistant, I build with precision and polish.
+I’ve explored Python for useful scripts and experimented with C (\*when I was in 9th) to understand low-level concepts. Outside of coding, I enjoy editing videos using DaVinci Resolve.
 
----
-
-## 💼 Technical Stack
-
-| Domain           | Tools & Technologies                                                                 |
-| ---------------- | ------------------------------------------------------------------------------------- |
-| **Front-End**    | HTML5, CSS3 (Tailwind, Flexbox, Grid), JavaScript (ES6+), React.js                   |
-| **Back-End**     | Python, Flask, API Integration                                                        |
-| **UI/UX**        | Responsive Design, Accessibility, Minimal Interfaces                                  |
-| **Programming**  | C, Python (Scripting, Logic, Automation)                                              |
-| **Dev Tools**    | Git, GitHub, VS Code, Cursor Editor                                                   |
-| **Creative**     | DaVinci Resolve (Video Editing), Creative Coding                                      |
-| **Soft Skills**  | Rapid Prototyping, Clean Documentation, Fast Typing (100+ WPM)                        |
+Alos, I type fast enough (100+ wpm), which mostly means I make mistakes faster… and fix them faster too. I am Still learning, still messing up, and still loving the process. Thanks for stopping by! (^-^)
 
 ---
 
-## 🚀 Featured Projects
+## Things I know!
 
-### 🌐 [Website Builder](https://kartikeyalab.github.io/PortfolioBuilder/)
+| Domain          | Tools & Technologies                                               |
+| --------------- | ------------------------------------------------------------------ |
+| **Front-End**   | HTML5, CSS3 (Tailwind, Flexbox, Grid), JavaScript (ES6+), React.js |
+| **Back-End**    | Python, Flask, API Integration                                     |
+| **UI/UX**       | Responsive Design, Accessibility, Minimal Interfaces               |
+| **Programming** | C, Python (Scripting, Logic, Automation)                           |
+| **Dev Tools**   | Git, GitHub, VS Code                                               |
+| **Creative**    | DaVinci Resolve (Video Editing), Canva Pro                         |
+| **Soft Skills** | Rapid Prototyping, Fast Typing (100+ WPM)                          |
+
+---
+
+## Featured Projects (all open sourced)
+
+### [Website Builder](https://kartikeyalab.github.io/PortfolioBuilder/)
+
 > Generate beautiful static websites effortlessly — no code required.
 
-- ⚙️ **Stack:** HTML, Tailwind CSS, JavaScript, jszip
-- 🎯 Designed for developers, students, and creatives
+- **Technologies Used:** HTML, Tailwind CSS, JavaScript, jszip
+- Designed for developers, students, and creatives
 
 ---
 
-### 🧠 [Luna – Neural Assistant](https://github.com/KartikeyaLab/Luna)
-> A smart personal assistant that talks, plays music, sets reminders, and logs your life.
+### [Luna – Voice Assistant](https://github.com/KartikeyaLab/Luna)
 
-- 🎤 Voice Input • 🎶 YouTube & Local Music • 🔎 Smart Search • 🧠 Built with Flask + TensorFlow
-- ⚙️ **Stack:** Python, Flask, HTML, CSS, JS, jQuery
+> A (probably dumb) personal assistant that talks, plays music, sets reminders, and logs your life. (the responses depend on the dataset.)
 
----
-
-### 🚀 [Launch Site – 100% Free Hosting](https://kartikeya.onrender.com/)
-> Publish your own static site — with a custom name, forever free.
-
-- ⚙️ **Stack:** HTML, Tailwind CSS, JavaScript, Flask
-- 💡 Clean interface, smooth user experience, Apple-style design
+- Voice Input • YouTube & Local Music • Smart Search • Built with Flask + TensorFlow
+- **Technologies Used:** Python, Flask, HTML, CSS, JS, jQuery
 
 ---
 
-## 🤝 Let’s Collaborate
+### [Launch Site – 100% Free Hosting](https://kartikeya.onrender.com/)
+
+> Launch your own static site with a clean domain — no ads, no tricks, just free forever.
+
+- **Technologies Used:** HTML, Tailwind CSS, JavaScript, Python (Flask)
+- Clean interface, smooth user experience, great design
+
+---
+
+## Let’s do something together (please!)
 
 I'm always open to:
-- Building cool, fast web tools
-- Working on open-source projects
+
+- Building cool, fast web tools, apps and games
+- Working on open-source projects (closed also work!)
 - Collaborating on UI/UX concepts
 - Learning something new together
-
-> I don’t just write code — I craft experiences.  
-> If you’re building something ambitious, minimal, or elegant — let’s talk.
 
 <p align="left">
   <a href="https://monkeytype.com/profile/Karitkeya">
@@ -95,4 +97,4 @@ I'm always open to:
 
 ---
 
-<p align="center" style="font-size: 0.9rem; color: #999;">Handcrafted with focus, curiosity & caffeine ☕</p>
+<p align="center" style="font-size: 0.9rem; color: #999;">Handcrafted with love ✨</p>
