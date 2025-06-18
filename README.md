@@ -22,23 +22,23 @@
 
 I’m in 11th grade-supposed to be solving math, but somehow I keep coding instead. My IDE have seen me more than my textbook. I mostly do front-end work: HTML, CSS (yes, Flexbox still confuses me), and JavaScript. I love building things — and sometimes, they actually work. Which suprises me often!
 
-I’ve explored Python for useful scripts and experimented with C (\*when I was in 9th) to understand low-level concepts. Outside of coding, I enjoy editing videos using DaVinci Resolve.
+I’ve explored Python for useful scripts and experimented with C (\*I was in 9th) to understand low-level concepts. Outside of coding, I enjoy editing videos using DaVinci Resolve.
 
 Alos, I type fast enough (100+ wpm), which mostly means I make mistakes faster… and fix them faster too. I am Still learning, still messing up, and still loving the process. Thanks for stopping by! (^-^)
 
 ---
 
-## Things I know!
+## Things I know! (only technical)
 
-| Domain          | Tools & Technologies                                               |
-| --------------- | ------------------------------------------------------------------ |
-| **Front-End**   | HTML5, CSS3 (Tailwind, Flexbox, Grid), JavaScript (ES6+), React.js |
-| **Back-End**    | Python, Flask, API Integration                                     |
-| **UI/UX**       | Responsive Design, Accessibility, Minimal Interfaces               |
-| **Programming** | C, Python (Scripting, Logic, Automation)                           |
-| **Dev Tools**   | Git, GitHub, VS Code                                               |
-| **Creative**    | DaVinci Resolve (Video Editing), Canva Pro                         |
-| **Soft Skills** | Rapid Prototyping, Fast Typing (100+ WPM)                          |
+| Domain          | Tools & Technologies                                     |
+| --------------- | -------------------------------------------------------- |
+| **Front-End**   | HTML5, CSS3 (Tailwind, Flexbox, Grid), JavaScript (ES6+) |
+| **Back-End**    | Python, Flask, API Integration                           |
+| **UI/UX**       | Responsive Design, Accessibility, Minimal Interfaces     |
+| **Programming** | C, Python (Scripting, Logic, Automation)                 |
+| **Dev Tools**   | Git, GitHub, VS Code                                     |
+| **Creative**    | DaVinci Resolve (Video Editing), Canva Pro (Editing)     |
+| **Soft Skills** | Rapid Prototyping, Fast Typing (100+ WPM)                |
 
 ---
 
@@ -76,9 +76,11 @@ Alos, I type fast enough (100+ wpm), which mostly means I make mistakes faster�
 I'm always open to:
 
 - Building cool, fast web tools, apps and games
-- Working on open-source projects (closed also work!)
+- Working on open-source projects
 - Collaborating on UI/UX concepts
 - Learning something new together
+
+> Open Source? Yes. Closed Source? Fine.
 
 <p align="left">
   <a href="https://monkeytype.com/profile/Karitkeya">
