@@ -1,58 +1,84 @@
-### 👋 Hello! I’m Kartikeya and I love Technology!
+<h1 align="center">👋 Hey there! I'm Kartikeya</h1>
+<p align="center">🚀 A curious builder who loves tech, code, and a bit of chaos in between.</p>
 
-[![Monkeytype](https://img.shields.io/badge/-Monkeytype-%23FFBF00?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/Karitkeya)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white)](http://kartikeyalab.github.io/kartikeya)
-[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@clever-ways)
-[![Mail Me](https://img.shields.io/badge/-Mail%20Me-%230078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikeya30062009@gmail.com)
-
----
-
-#### <ins>About Me</ins>
-
-Hi, I’m Kartikeya — I’m in 11th grade, and while I do try to keep up with my studies, I somehow always end up debugging code instead of solving math problems. Let’s just say my IDE sees me more than my textbooks do! I mostly work on front-end development—HTML, CSS (Flexbox and Grid, even when they confuse me), JavaScript. I like making stuff that looks cool, functions well, and every now and then surprises me with a rare moment of accidental genius, Wait… this works?
-
-#### <ins>Technical Skills</ins>
-
-| Category         | Skills                                                                                     |
-| ---------------- | ------------------------------------------------------------------------------------------ |
-| **Front-End**    | HTML5, CSS3 (Flexbox, Grid), JavaScript, React.js, Responsive Design, Accessibility        |
-| **Back-End**     | Python (Scripting, Automation), Basic Back-End Services                                    |
-| **Programming**  | C                                                                                          |
-| **Tools & IDEs** | Git, VS Code, Cursor                                                 |
-| **Multimedia**   | Video Editing (DaVinci Resolve 19)                                                         |
-| **Other**        | Fast Typing (100+ WPM)                                                                     |
+<p align="center">
+  <a href="https://monkeytype.com/profile/Karitkeya">
+    <img src="https://img.shields.io/badge/-Monkeytype-%23FFBF00?style=for-the-badge&logo=monkeytype&logoColor=black" />
+  </a>
+  <a href="http://kartikeyalab.github.io/kartikeya">
+    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@clever-ways">
+    <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:kartikeya30062009@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail%20Me-%230078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-#### <ins>My Projects</ins>
+## 🧠 About Me
 
-1.  **Website Builder**
-
-    - A web tool to generate personalized static websites easily through a user-friendly interface.
-    - **Technologies Used:** HTML, CSS (Tailwind CSS), JavaScript, jszip.
-    - [Portfolio Builder (Free)](https://kartikeyalab.github.io/PortfolioBuilder/)
-
-2.  **Luna - Linear Unique Neural Assistant**
-    - A personal assistant program with voice interaction, reminders, local music and YouTube playback, web searching, and conversation logging, built with Python, Flask, TensorFlow, and a web interface.
-    - **Technologies Used:** Python, Flask, TensorFlow, HTML, CSS, JavaScript, jQuery.
-    - [![GitHub](https://img.shields.io/badge/-GitHub-%23242929?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartikeyaLab/Luna)
-
-3.  **Launch Site (100% Free)**
-
-    - A web tool to publish your website easily through a user-friendly interface, with a custom domain name and also lifetime free.
-    - **Technologies Used:** HTML, Tailwind CSS, JavaScript, Python (Flask)
-    - [Launch Site (100% Free)](https://kartikeya.onrender.com/)
----
-
-#### <ins>Connect with Me</ins>
-
-I’m excited to connect with developers. Don’t hesitate to say hi — let’s build something awesome together! ✨
-
-[![Monkeytype](https://img.shields.io/badge/-Monkeytype-%23FFBF00?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/Karitkeya)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white)](http://kartikeyalab.github.io/kartikeya)
-[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@clever-ways)
-[![Mail Me](https://img.shields.io/badge/-Mail%20Me-%230078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikeya30062009@gmail.com)
+I'm a high schooler (Class 11) who’s often found fixing bugs at midnight and wondering if `flex: 1` is the answer to everything.  
+I specialize in front-end development with a passion for making the web fun, fast, and beautiful.  
+If it’s shiny, interactive, and doesn’t break the user experience — I probably built it (or tried to).  
 
 ---
 
-Thanks so much for visiting my profile! ✨
+## 🛠️ Technical Skills
+
+| Category         | Skills                                                                                   |
+| ---------------- | ---------------------------------------------------------------------------------------- |
+| **Front-End**    | HTML5, CSS3 (Flexbox, Grid), JavaScript, React.js, Responsive Design, Accessibility      |
+| **Back-End**     | Python (Scripting, Automation), Flask (Basic APIs)                                       |
+| **Programming**  | C                                                                                        |
+| **Tools & IDEs** | Git, VS Code, Cursor                                                                     |
+| **Multimedia**   | Video Editing (DaVinci Resolve 19)                                                       |
+| **Fun Fact**     | I type at over 100 WPM — it helps... mostly when debugging at light speed 💨             |
+
+---
+
+## 🚀 Projects
+
+### 🔧 [Website Builder](https://kartikeyalab.github.io/PortfolioBuilder/)
+Build personalized static websites in seconds — just enter, click, and boom, you’ve got a site.  
+**Tech:** HTML, CSS (Tailwind CSS), JavaScript, jszip
+
+---
+
+### 🧠 [Luna – Linear Unique Neural Assistant](https://github.com/KartikeyaLab/Luna)
+A personal assistant with voice input, music playback, reminders, search, and logging — kind of like J.A.R.V.I.S but with more Python and less sarcasm.  
+**Tech:** Python, Flask, TensorFlow, HTML, CSS, JavaScript, jQuery
+
+---
+
+### 🌐 [Launch Site (100% Free)](https://kartikeya.onrender.com/)
+Launch your own static site with a clean domain — no ads, no tricks, just free forever.  
+**Tech:** HTML, Tailwind CSS, JavaScript, Flask
+
+---
+
+## 🤝 Let’s Connect!
+
+I love meeting developers, designers, and dreamers. Whether it's building fun tools, solving bugs, or just talking code — I’m always up for it.  
+Let’s create something epic together ✨
+
+<p align="left">
+  <a href="https://monkeytype.com/profile/Karitkeya">
+    <img src="https://img.shields.io/badge/-Monkeytype-%23FFBF00?style=for-the-badge&logo=monkeytype&logoColor=black" />
+  </a>
+  <a href="http://kartikeyalab.github.io/kartikeya">
+    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@clever-ways">
+    <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:kartikeya30062009@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail%20Me-%230078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thanks for stopping by! 🌟</p>
