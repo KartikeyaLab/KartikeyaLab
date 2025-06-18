@@ -9,10 +9,7 @@
 
 #### <ins>About Me</ins>
 
-Hi, I’m Kartikeya — a passionate computer programmer with a focus on front-end web development.
-I work with HTML5, CSS3 (Flexbox, Grid), JavaScript, and React.js to build responsive and accessible user interfaces. I also use Python for scripting and light back-end tasks, and have explored C for a better understanding of low-level programming.
-
-Beyond coding, I have experience in video editing using DaVinci Resolve, which adds a creative touch to my technical work. With a typing speed of over 100 words per minute, I work quickly and accurately, ensuring efficiency in everything I do.
+Hi, I’m Kartikeya — I’m in 11th grade, and while I do try to keep up with my studies, I somehow always end up debugging code instead of solving math problems. Let’s just say my IDE sees me more than my textbooks do! I mostly work on front-end development—HTML, CSS (Flexbox and Grid, even when they confuse me), JavaScript. I like making stuff that looks cool, functions well, and every now and then surprises me with a rare moment of accidental genius, Wait… this works?
 
 #### <ins>Technical Skills</ins>
 
