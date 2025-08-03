@@ -20,11 +20,15 @@
 
 ## About Me
 
-I’m in 11th grade-supposed to be solving math, but somehow I keep coding instead. My IDE have seen me more than my textbook. I mostly do front-end work: HTML, CSS (yes, Flexbox still confuses me), and JavaScript. I love building things — and sometimes, they actually work. Which suprises me often!
+I’m Kartikeya. I don’t have a big story to tell, just a simple interest in how things work, how thoughts form, and how ideas take shape.
 
-I’ve explored Python for useful scripts and experimented with C (\*I was in 9th) to understand low-level concepts. Outside of coding, I enjoy editing videos using DaVinci Resolve.
+Most of my time goes into learning code, logic, a few creative experiments here and there. Some of it ends up as projects. Some stays in drafts. That’s alright with me.
 
-Alos, I type fast enough (100+ wpm), which mostly means I make mistakes faster… and fix them faster too. I am Still learning, still messing up, and still loving the process. Thanks for stopping by! (^-^)
+This site is just a quiet space to keep track of what I’m building and where my mind’s been lately. Nothing more. Nothing less.
+
+You won’t find anything loud here. Just a bit of me, in the way I see. Thanks for stopping by! (^-^)
+
+
 
 ---
 
