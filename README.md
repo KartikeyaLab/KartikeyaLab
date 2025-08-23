@@ -2,9 +2,6 @@
 <p align="center" style="font-size: 1.2rem; color: #666;">Developer · Designer · Typist · Editor</p>
 
 <p align="center">
-  <a href="https://monkeytype.com/profile/Karitkeya">
-    <img src="https://img.shields.io/badge/Monkeytype-%23FFBF00?style=for-the-badge&logo=monkeytype&logoColor=black" />
-  </a>
   <a href="http://kartikeyalab.github.io/kartikeya">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
