@@ -8,9 +8,6 @@
   <a href="http://kartikeyalab.github.io/kartikeya">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@clever-ways">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
   <a href="mailto:kartikeya30062009@gmail.com">
     <img src="https://img.shields.io/badge/Mail%20Me-%230078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -92,9 +89,6 @@ I'm always open to:
   </a>
   <a href="http://kartikeyalab.github.io/kartikeya">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@clever-ways">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:kartikeya30062009@gmail.com">
     <img src="https://img.shields.io/badge/Mail%20Me-%230078D4?style=for-the-badge&logo=gmail&logoColor=white" />
