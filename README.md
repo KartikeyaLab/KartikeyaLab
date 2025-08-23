@@ -12,33 +12,6 @@
 
 ---
 
-## About Me
-
-I’m Kartikeya. I don’t have a big story to tell, just a simple interest in how things work, how thoughts form, and how ideas take shape.
-
-Most of my time goes into learning code, logic, a few creative experiments here and there. Some of it ends up as projects. Some stays in drafts. That’s alright with me.
-
-This site is just a quiet space to keep track of what I’m building and where my mind’s been lately. Nothing more. Nothing less.
-
-You won’t find anything loud here. Just a bit of me, in the way I see. Thanks for stopping by! (^-^)
-
-
-
----
-
-## Things I know! (only technical included)
-
-| Domain          | Tools & Technologies                                     |
-| --------------- | -------------------------------------------------------- |
-| **Front-End**   | HTML5, CSS3 (Tailwind, Flexbox, Grid), JavaScript (ES6+) |
-| **Back-End**    | Python, Flask, API Integration                           |
-| **UI/UX**       | Responsive Design, Accessibility, Minimal Interfaces     |
-| **Programming** | C, Python (Scripting, Logic, Automation)                 |
-| **Dev Tools**   | Git, GitHub, VS Code                                     |
-| **Creative**    | DaVinci Resolve (Video Editing), Canva Pro (Editing)     |
-| **Soft Skills** | Rapid Prototyping, Fast Typing (100+ WPM)                |
-
----
 
 ## Featured Projects (all open sourced)
 
@@ -69,21 +42,9 @@ You won’t find anything loud here. Just a bit of me, in the way I see. Thanks 
 
 ---
 
-## Let’s do something together (please!)
-
-I'm always open to:
-
-- Building cool, fast web tools, apps and games
-- Working on open-source projects
-- Collaborating on UI/UX concepts
-- Learning something new together
-
-> Open Source? Yes. Closed Source? Fine.
+## Let’s do something together
 
 <p align="left">
-  <a href="https://monkeytype.com/profile/Karitkeya">
-    <img src="https://img.shields.io/badge/Monkeytype-%23FFBF00?style=for-the-badge&logo=monkeytype&logoColor=black" />
-  </a>
   <a href="http://kartikeyalab.github.io/kartikeya">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
