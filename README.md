@@ -1,70 +1,84 @@
-<h1 align="center" style="font-weight: 600; font-size: 3rem;">Hi, I’m Kartikeya</h1>
-<p align="center" style="font-size: 1.2rem; color: #666;">Developer · Designer · Typist · Editor</p>
+<h1 align="center">Hi, I’m Kartikeya 👋</h1>
+<p align="center">
+  I build simple, useful software with care.
+</p>
 
 <p align="center">
   <a href="http://kartikeyalab.github.io/kartikeya">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
   <a href="mailto:kartikeya30062009@gmail.com">
-    <img src="https://img.shields.io/badge/Mail%20Me-%230078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Featured Projects (all open sourced)
+##  Featured Work
 
-### 🌸 [Shop Management](https://github.com/KartikeyaLab/Shop-Management)
+### Shop Management
+**Windows desktop application**
 
-> A simple Windows desktop app for managing shop customers and records.
+> A simple offline app for managing shop customers and records.
 
-- Add, edit, and search customer details  
+- Customer add, edit, and search  
 - Export data to Excel  
 - Works fully offline  
-- **Platform:** Windows 10 / 11 (.exe)
+- Windows 10 / 11 (.exe)
+
+ https://github.com/KartikeyaLab/Shop-Management
 
 ---
 
-### [Website Builder](https://kartikeyalab.github.io/PortfolioBuilder/)
+### Website Builder
+**No-code static site generator**
 
-> Generate beautiful static websites effortlessly — no code required.
+> Generate clean, beautiful websites without writing code.
 
-- **Technologies Used:** HTML, Tailwind CSS, JavaScript, jszip  
-- Designed for developers, students, and creatives
+- HTML • Tailwind CSS • JavaScript • JSZip  
+- Built for students, developers, and creatives
+
+https://kartikeyalab.github.io/PortfolioBuilder/
 
 ---
 
-### [Luna – Voice Assistant](https://github.com/KartikeyaLab/Luna)
+### Luna – Voice Assistant
+**Personal assistant experiment**
 
-> A simple personal voice assistant that can talk, play music, and respond based on a dataset.
+> A simple voice assistant that responds using a dataset.
 
 - Voice input • Music playback • Smart search  
-- **Technologies Used:** Python, Flask, HTML, CSS, JavaScript, jQuery
+- Python • Flask • HTML • CSS • JavaScript
+
+https://github.com/KartikeyaLab/Luna
 
 ---
 
-### [Launch Site – 100% Free Hosting](https://kartikeya.onrender.com/)
+###Launch Site
+**Free static site hosting**
 
-> Launch your own static site with a clean domain — free and simple.
+> Launch a clean website with no ads and no tricks.
 
-- **Technologies Used:** HTML, Tailwind CSS, JavaScript, Python (Flask)  
-- Clean interface and smooth user experience
+- HTML • Tailwind CSS • JavaScript • Flask  
+- Focused on simplicity and design
+
+https://kartikeya.onrender.com/
 
 ---
 
-## Let’s do something together
+## Let’s Connect
 
-<p align="left">
+<p>
   <a href="http://kartikeyalab.github.io/kartikeya">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
   <a href="mailto:kartikeya30062009@gmail.com">
-    <img src="https://img.shields.io/badge/Mail%20Me-%230078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center" style="font-size: 0.9rem; color: #999;">
-  Handcrafted with love ✨
+<p align="center">
+  <sub>Handcrafted with care ✨</sub>
 </p>
