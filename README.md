@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I’m Kartikeya</h1>
 <p align="center">
-  I build simple, useful software with care.
+I was born 282 years after the death of Sir Isaac Newton. It all started with an idea!
+
+
 </p>
 
 <p align="center">
