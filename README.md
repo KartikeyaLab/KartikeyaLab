@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Kartikeya</h1>
 <p align="center">
-I was born 282 years after the death of Sir Isaac Newton. It all started with an idea!
+I was born 282 years after the death of Sir Isaac Newton. 
 
 
 </p>
@@ -82,5 +82,5 @@ I was born 282 years after the death of Sir Isaac Newton. It all started with an
 ---
 
 <p align="center">
-  <sub>Handcrafted with care ✨</sub>
+Handcrafted with care ✨ It all started with an idea!
 </p>
