@@ -12,33 +12,43 @@
 
 ---
 
-
 ## Featured Projects (all open sourced)
+
+### 🌸 [Shop Management](https://github.com/KartikeyaLab/Shop-Management)
+
+> A simple Windows desktop app for managing shop customers and records.
+
+- Add, edit, and search customer details  
+- Export data to Excel  
+- Works fully offline  
+- **Platform:** Windows 10 / 11 (.exe)
+
+---
 
 ### [Website Builder](https://kartikeyalab.github.io/PortfolioBuilder/)
 
 > Generate beautiful static websites effortlessly — no code required.
 
-- **Technologies Used:** HTML, Tailwind CSS, JavaScript, jszip
+- **Technologies Used:** HTML, Tailwind CSS, JavaScript, jszip  
 - Designed for developers, students, and creatives
 
 ---
 
 ### [Luna – Voice Assistant](https://github.com/KartikeyaLab/Luna)
 
-> A (probably dumb) personal assistant that talks, plays music, sets reminders, and logs your life. (the responses depend on the dataset.)
+> A simple personal voice assistant that can talk, play music, and respond based on a dataset.
 
-- Voice Input • YouTube & Local Music • Smart Search • Built with Flask + TensorFlow
-- **Technologies Used:** Python, Flask, HTML, CSS, JS, jQuery
+- Voice input • Music playback • Smart search  
+- **Technologies Used:** Python, Flask, HTML, CSS, JavaScript, jQuery
 
 ---
 
 ### [Launch Site – 100% Free Hosting](https://kartikeya.onrender.com/)
 
-> Launch your own static site with a clean domain — no ads, no tricks, just free forever.
+> Launch your own static site with a clean domain — free and simple.
 
-- **Technologies Used:** HTML, Tailwind CSS, JavaScript, Python (Flask)
-- Clean interface, smooth user experience, great design
+- **Technologies Used:** HTML, Tailwind CSS, JavaScript, Python (Flask)  
+- Clean interface and smooth user experience
 
 ---
 
@@ -55,4 +65,6 @@
 
 ---
 
-<p align="center" style="font-size: 0.9rem; color: #999;">Handcrafted with love ✨</p>
+<p align="center" style="font-size: 0.9rem; color: #999;">
+  Handcrafted with love ✨
+</p>
