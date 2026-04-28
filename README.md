@@ -124,8 +124,8 @@ Born from the idea of innovating outside your own industry. Inspired by an artis
 - Tribute to the artists who inspired this work
 - Scroll-aware animations and shimmer effects
 
-[![Live](https://img.shields.io/badge/View%20Site-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://kartikeyalab.github.io/the-archive/)
-[![GitHub](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/KartikeyaLab/the-archive)
+[![Live](https://img.shields.io/badge/View%20Site-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://kartikeyalab.github.io/The-Archive/)
+[![GitHub](https://img.shields.io/badge/View%20Repo-%23000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/KartikeyaLab/The-Archive)
 
 </td>
 <td width="50%" valign="top">
